@@ -1,0 +1,6 @@
+{
+  "name": "MNIST Digit Classifier",
+  "description": "A handwritten digit classifier using MNIST dataset with a FastAPI backend and a clean web frontend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

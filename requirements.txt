@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+scikit-learn
+numpy
+pillow
+joblib
+python-dotenv
